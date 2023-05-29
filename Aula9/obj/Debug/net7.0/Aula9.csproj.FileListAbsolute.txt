@@ -1,0 +1,15 @@
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula9\bin\Debug\net7.0\Aula9.exe
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula9\bin\Debug\net7.0\Aula9.deps.json
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula9\bin\Debug\net7.0\Aula9.runtimeconfig.json
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula9\bin\Debug\net7.0\Aula9.dll
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula9\bin\Debug\net7.0\Aula9.pdb
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula9\obj\Debug\net7.0\Aula9.csproj.AssemblyReference.cache
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula9\obj\Debug\net7.0\Aula9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula9\obj\Debug\net7.0\Aula9.AssemblyInfoInputs.cache
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula9\obj\Debug\net7.0\Aula9.AssemblyInfo.cs
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula9\obj\Debug\net7.0\Aula9.csproj.CoreCompileInputs.cache
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula9\obj\Debug\net7.0\Aula9.dll
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula9\obj\Debug\net7.0\refint\Aula9.dll
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula9\obj\Debug\net7.0\Aula9.pdb
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula9\obj\Debug\net7.0\Aula9.genruntimeconfig.cache
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula9\obj\Debug\net7.0\ref\Aula9.dll

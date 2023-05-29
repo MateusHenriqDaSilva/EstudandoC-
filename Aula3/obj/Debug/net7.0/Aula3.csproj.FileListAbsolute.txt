@@ -1,0 +1,5 @@
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula3\obj\Debug\net7.0\Aula3.csproj.AssemblyReference.cache
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula3\obj\Debug\net7.0\Aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula3\obj\Debug\net7.0\Aula3.AssemblyInfoInputs.cache
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula3\obj\Debug\net7.0\Aula3.AssemblyInfo.cs
+C:\Users\Mahends\Desktop\MesaDeEstudos\c#\Aula3\obj\Debug\net7.0\Aula3.csproj.CoreCompileInputs.cache
